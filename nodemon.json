@@ -1,0 +1,7 @@
+{
+    "watch": ["backend"],
+    "ignore": ["*.db", "*.sqlite", "node_modules/**/node_modules"],
+    "ext": "js,json",
+    "exec": "node backend/server.js"
+  }
+  
